@@ -1,0 +1,15 @@
+body {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(3,65,73);
+}
+ul {
+    background-color: black;
+    color: white;
+    padding-right: 70px;
+}
+h2{
+    color: white;
+}
